@@ -486,12 +486,12 @@ export default function Home() {
                 </div>
                 <h4 className="card-title">Bluethroat Shop</h4>
                 <p className="card-desc">A premium men's fashion e-commerce platform built for high conversion and fast performance.</p>
-                <a href="https://bluethroatshop.in" target="_blank" rel="noopener noreferrer" className="card-btn">
+                {/* Yahan https:// add kiya hai 👇 */}
+                <a href="https://bluethroat-ecommerce.vercel.app" target="_blank" rel="noopener noreferrer" className="card-btn">
                   View Demo <i className="fa-solid fa-arrow-right"></i>
                 </a>
               </div>
             </div>
-
             {/* 4. Ratnamani Dashboard */}
             <div className="adv-card" data-aos="fade-up" data-aos-delay="400">
               <div className="img-wrapper">
